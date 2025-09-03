@@ -1,7 +1,11 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+![Last Commit](https://img.shields.io/github/last-commit/Nosiyadevi/spam-email-detection)
+![Repo Size](https://img.shields.io/github/repo-size/Nosiyadevi/spam-email-detection)
+![Issues](https://img.shields.io/github/issues/Nosiyadevi/spam-email-detection)
+![Forks](https://img.shields.io/github/forks/Nosiyadevi/spam-email-detection)
+![Stars](https://img.shields.io/github/stars/Nosiyadevi/spam-email-detection)
 
 
 
