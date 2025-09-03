@@ -14,6 +14,11 @@ This project detects whether a given email/message is **Spam** or **Ham** using 
 - `notebooks/` : Jupyter notebooks for EDA
 - `requirements.txt` : dependencies
 
+- ## 📂 Dataset
+Download the dataset from [Kaggle SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
+Place it inside the `data/` folder as `spam.csv`.
+
+
 ## 🔧 How to Run
 ```bash
 git clone https://github.com/<your-username>/spam-email-detection.git
