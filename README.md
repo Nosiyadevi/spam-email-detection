@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
+
+
 # 📧 Spam Email Detection (ML)
 
 This project detects whether a given email/message is **Spam** or **Ham** using Machine Learning.
